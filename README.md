@@ -9,7 +9,7 @@ Built with **HTML, CSS, and Bootstrap**, this project mimics a swipe-based datin
 
 ## 🚀 Live Demo
 
-👉 https://imaksofficial.github.io/TinDog/
+👉 https://adityakumarsinha-in.github.io/TinDog/
 
 ---
 
